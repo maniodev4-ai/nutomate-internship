@@ -1,0 +1,15 @@
+# Compiled C objects and binaries
+*.o
+*.out
+*.so
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor/OS junk
+.vscode/
+.DS_Store
+*~
